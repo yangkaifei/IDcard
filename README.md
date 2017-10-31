@@ -12,17 +12,9 @@
 
 你可以利用国家标准数据构建自己项目的数据库。
 
-## Badges
 
-Badges with spec versions:
 
-[![Spec v0.2](https://img.shields.io/badge/GB%2FT%202260-v0.2-blue.svg)](https://github.com/cn/GB2260/blob/v0.2/spec.md)
-
-```
-Badge: https://img.shields.io/badge/GB%2FT%202260-v0.2-blue.svg
-Link: https://github.com/cn/GB2260/blob/v0.2/spec.md
-
-## 身份证校验器功能（此身份证校验器的源代码是shenfenzheng.py）
+# 身份证校验器功能（此身份证校验器的源代码是shenfenzheng.py）
 1.不仅仅可以校验最新的行政区划，之前存在的数据都已存入一起校验；
 2.通过身份证最后一位的校验码，可以校验此身份证的有效性；
 3.根据身份证倒数第二位可以得出性别；
@@ -31,6 +23,6 @@ Link: https://github.com/cn/GB2260/blob/v0.2/spec.md
 6.此校验器已完成15位和18位身份证的同时使用；
 7.当校验器工作时，每当身份证中有错误的地方都提示相应问题，并且会停止其它校验。
 
-## 此校验器的运行
+# 此校验器的运行
 下载mca文件夹中的行政区划代码和校验器源代码即可运行！
  
